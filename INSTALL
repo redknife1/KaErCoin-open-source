@@ -1,0 +1,9 @@
+Building KaErCoin
+
+See doc/readme-qt.rst for instructions on building KaErCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KaErCoin.
+
+See doc/build-*.txt for instructions on building KaErCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KaErCoin.
